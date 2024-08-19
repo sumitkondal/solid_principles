@@ -1,9 +1,9 @@
 # Solid Principles
-It is about Readable, Testable, Extensible, Maintainable<br />
-Readable code is clear and easy to understand. <br />
-Each subclass is independently testable. Test-cases are no longer tightly coupled.<br />
-Easily expanded or modified to accommodate new features or requirements without breaking existing features and application flow.<br />
-Easy to find and fix bugs, to add new features, and to change existing features. It helps to reduce the cost of software development and maintenance.<br /><br />
+It is about **Readable**, **Testable**, **Extensible**, **Maintainable**<br />
+**Readable** code is clear and easy to understand. <br />
+Each subclass is independently **testable**. Test-cases are no longer tightly coupled.<br />
+Easily **expanded or modified** to accommodate new features or requirements without breaking existing features and application flow.<br />
+Easy to find and fix bugs, to add new features, and to change existing features. It helps to reduce the cost of software development and **maintenance**.<br /><br />
 
 * **Single responsibility**: A class should have only one responsibility. This means that a class should only do one thing and do it well.<br />
 * **Open-closed**: Class should be open for extension but closed for modification. Add new features to a class without modifying the existing code.<br />
