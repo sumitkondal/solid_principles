@@ -22,7 +22,8 @@ public class Percentage {
  public void calculatePercentage(){ //functionality of the method }
 }  
 ```
-* **Open-closed**: Class should be open for extension but closed for modification. Add new features to a class without modifying the existing code.<br />
+* **Open-closed**: Class should be open for extension but closed for modification. Add new features to a class without modifying the existing code.
+
 **Wrong Practice:**
 ```java
 public class VehicleInfo {  
@@ -32,6 +33,7 @@ public double vehicleNumber(Vehicle vcl) {
 }
 ```
 **Correct Practice:**
+
 ```java
 public abstract class VehicleInfo {
  public abstract double vehicleNumber();
