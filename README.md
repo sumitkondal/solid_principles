@@ -106,6 +106,7 @@ public interface Conversion  {
  public void intToChar();  
  public void charToString();  
 }
+```
 **Correct Practice:**
 ```java
 public interface ConvertIntToDouble{
